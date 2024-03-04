@@ -1,0 +1,81 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+div{
+    max-width: 65vw;
+    display: flex;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.week *{
+    padding: 30px 0 90px 0;
+}
+.week{
+    flex: 1 1 70%;
+}
+.notes{
+    flex-direction: column;
+    flex: 1 1 30%;
+}
+.notes *{
+    
+    padding: 30px 10px 90px 10px;
+    font-weight: bold;
+}
+span{
+    border: 1px solid black;
+}
+
+.week span:nth-child(1){
+    flex: 1 1 100%;
+    font-weight: bold;
+}
+
+
+.week span:nth-child(2){
+    flex: 1 1 20%;
+}
+.week span:nth-child(3){
+    flex: 1 1 20%;
+}
+.week span:nth-child(4){
+    flex: 1 1 20%;
+}
+.week span:nth-child(5){
+    flex: 1 1 20%;
+}
+.week span:nth-child(6){
+    flex: 1 1 20%;
+}
+
+
+.week span:nth-child(7){
+    flex: 1 1 100%;
+    font-weight: bold;
+}
+
+
+.week span:nth-child(8){
+    flex: 1 1 50%;
+}
+.week span:nth-child(9){
+    flex: 1 1 50%;
+}
+
+
+.notes span:nth-child(1){
+    flex: 1 1 50%;
+}
+.notes span:nth-child(2){
+    flex: 1 1 50%;
+}

@@ -1,0 +1,10 @@
+.site-footer{
+    background: rgb(208, 25, 25);
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 0.6em 0;
+}
+.site-footer p{
+    padding-bottom: 0
+}

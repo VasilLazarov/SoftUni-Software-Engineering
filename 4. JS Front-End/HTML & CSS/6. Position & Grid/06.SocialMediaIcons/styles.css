@@ -1,0 +1,35 @@
+@import "https://use.fontawesome.com/releases/v5.15.4/css/all.css";
+
+body {
+    background-color: azure;
+}
+ul{
+    display: inline-block;
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+    margin: 1em;
+}
+ul li a{
+    background: #d2d1d1;
+    padding: 1em;
+    border-radius: 50%;
+    text-align: center;
+    color: black;
+}
+.f:hover{
+    color: rgb(61, 91, 156);
+}
+.t:hover{
+    color: rgb(29, 161, 242);
+}
+.g:hover{
+    color: rgb(223, 79, 68);
+}
+.l:hover{
+    color: rgb(0, 122, 179);
+}
+.in:hover{
+    color: rgb(49, 137, 178);
+}

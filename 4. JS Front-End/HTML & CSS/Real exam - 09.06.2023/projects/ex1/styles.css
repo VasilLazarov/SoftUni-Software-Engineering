@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html{
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+body{
+    background: url(images/background.jpg);
+    background-size: 105% auto;
+    background-repeat: no-repeat;
+    background-position: 0 -10.2em;
+}
+.container{
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 60px 75px;
+    display: flex;
+    min-height: 100vh;
+}
+svg{
+    width: 4em;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.cards{
+    display: flex;
+    width: 100%;
+    gap: 1.5em;
+}
+.cards-column{
+    flex: 1 1 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+.card1{
+    padding: 3em;
+    background: rgb(255, 255, 255);
+    display: flex;
+    flex: 1 1 50%;
+    align-items: center;
+    gap: 3em;
+
+}
+.info{
+    flex: 1 1 50%;
+}
+.text1{
+    color: #777676;
+    padding: 2.2em 0;
+    font-size: 1.2em;
+}
+.name1{
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-top: 1em;
+}
+.images1{
+    border-radius: 50%;
+    overflow: hidden;
+    width: 15em;
+    height: 15em; 
+    
+}
+.images2{
+    border-radius: 50%;
+    overflow: hidden;
+    width: 7em;
+    height: 7em;
+    
+}
+.card2{
+    flex: 1 1 30%;
+    background: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    padding: 4em 2em 2em 2em;
+    justify-content: space-between;
+
+}
+.person-info{
+    border-top: 2px solid #eee;
+}
+.people{
+    display: flex;
+    padding-top: 1em;
+    align-items: center;
+}
+.name2{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.name-title{
+    padding-left: 1em;
+}
+.title{
+    font-size: 0.78em;
+}
+.text2{
+    color: #777676;
+    padding: 1em 0 4em 0;
+    font-size: 1.2em;
+}

@@ -1,0 +1,120 @@
+html{
+    box-sizing: border-box;
+}
+*, *::after, *::before{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 100px;
+    background:  rgb(238, 238, 238);
+    display: grid;
+    grid-template-columns: 4fr 1.5fr;
+    column-gap: 10em;
+    grid-template-areas: 
+        "header header"
+        "main aside";
+    font-size: 17px;
+}
+article header{
+    padding: 2em 0 1em 0;
+}
+article header h2{
+    font-size: 24px;
+}
+article header h1{
+    font-size: 32px;
+}
+section p{
+    padding: 0 0 1em 0;
+}
+h1, h2{
+    font: 1em/1.2 Georgia, serif;
+    font-weight: bold;
+}
+.mainheader{
+    grid-area: header;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: 2px solid black;
+}
+.mainheader p{
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0 0 0.1em 0;
+}
+.mainheader ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    padding: 0 0.5em 0 0;
+}
+.mainheader ul li a{
+    text-decoration: none;
+    color: rgb(0, 102, 0);
+    padding: 0 1.3em;
+}
+main{
+    grid-area: main;
+}
+aside{
+    grid-area: aside;
+    padding: 2em 0 0 0;
+}
+aside h2{
+    font-size: 24px;
+}
+aside ul{
+    padding: 1em 0 1.5em 0;
+    list-style-type: square;
+}
+aside ul li{
+    margin: 0 0 0 2.3em;
+}
+aside ul li a{
+    text-decoration: none;
+    color: rgb(0, 102, 0);
+}
+.blockq{
+    display: flex;
+    padding: 1em 0 2em 0;
+}
+.blockq p{
+    flex: 0 0 55%;
+    padding: 0 2em 0 0;
+}
+.blockq blockquote{
+    flex: 0 0 45%;
+    border-left: 3px solid;
+    
+    font-family: Georgia, serif;
+    font-style: italic;
+    border-left: 3px solid #cdcdcd;
+    padding: 0 0 0 2em;
+}
+.author{
+    text-align: right;
+}
+img{
+    background: rgb(255, 255, 255);
+    border: 0.2em solid black;
+    padding: 0.5em;
+    box-shadow: 0 0 1em 0.2em rgba(0, 0, 0, 0.25);
+}
+.img1{
+    float: right;
+}
+.img1 img{
+    width: 95%;
+}
+.img2 img{
+    width: 95%;
+}
+.img2{
+    float: left;
+    padding: 0 1.5em 0 0;
+}

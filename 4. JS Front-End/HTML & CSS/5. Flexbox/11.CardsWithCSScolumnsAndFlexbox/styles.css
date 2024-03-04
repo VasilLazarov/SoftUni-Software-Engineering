@@ -1,0 +1,55 @@
+html{
+    box-sizing: border-box;
+}
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+body{
+    background: rgb(238, 238, 238);
+    width: 80vm;
+    margin: 0 auto;
+    padding: 0 200px;
+}
+img{
+    width: 100%;
+}
+section{
+    margin-bottom: 75px;
+}
+footer{
+    border-top: 2px solid black;
+    bottom: 5px;
+    margin-top: auto;
+}
+.masonry{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    align-items: flex-start;
+grid-auto-flow: row dense;
+}
+.card{
+    background-color: white;
+    width: 250px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.card h3, .card p{
+    margin: 0 20px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: left;
+    align-items: stretch;
+}
+.flex > .card{
+    flex: 1 1 30%;
+    position: relative;
+    display: flex;
+    min-width: 250px;
+    flex-direction: column;
+}

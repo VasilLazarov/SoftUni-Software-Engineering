@@ -1,0 +1,22 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+div{
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: bold;
+}
+.firsth *{
+    display: inline-block;
+}
+.firsth{
+    padding: 20px 0;
+}
+a{
+    text-decoration: none;
+    color: rgb(74, 164 , 41);
+    padding: 0 10px;
+}
+nav{
+    padding: 0px 100px;
+}

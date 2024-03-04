@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Center Flexbox</title>
+    <style>
+        html{
+            box-sizing: border-box;
+        }
+        *, *::after, *::before{
+            box-sizing: inherit;
+        }
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgb(238, 238, 238);
+            min-height: 100vh;
+        }
+        div{
+            background: rgb(255, 255, 255);
+            width: 350px;
+            padding: 10px;
+        }
+        h4{
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h4>Card Title</h4>
+        <p>Some kind of description here that explains this strange behaviour of the system</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,66 @@
+
+.top-bar{
+    background: rgb(208, 25, 25);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.1em 3.5em 1.1em 3em;
+}
+.top-bar p{
+    padding-bottom: 0;
+    font-size: 1.3em;
+}
+.logo-plus-text{
+    display: flex;
+    align-items: center;
+}
+.logo-plus-text svg{
+    width: 1.5em;
+    fill: white;
+    margin-right: 0.5em;
+    aspect-ratio: 1;
+
+}
+.socials li a svg{
+    width: 1.5em;
+    fill: white;
+    aspect-ratio: 1;
+    align-self: center;
+}
+.socials{
+    padding: 0.2em 0 0 0;
+    margin: 0;
+    display: flex;
+    gap: 0.4em;
+    align-items: center;
+}
+.socials li,
+.socials a{
+    display: block;
+    align-items: center;
+}
+.socials a{
+    text-decoration: none;
+    color: white;
+}
+.site-title{
+    display: none;
+}
+.main-nav{
+    display: flex;
+    justify-content: end;
+}
+.main-nav ul{
+    display: flex;
+    gap: 6.5em;
+    padding: 2em 5em 1em 5em;
+}
+.main-nav ul li,
+.main-nav ul a{
+    display: block;
+}
+.main-nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3em;
+}

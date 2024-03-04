@@ -1,0 +1,38 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background:  rgb(238, 238, 238);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.card, .mediaCard, .mediaQ{
+    display: flex;
+    /*flex: 0 0 5em;*/
+    overflow: hidden;
+    width: 5em;
+    border-radius: 0.5em;
+}
+div{
+    box-shadow: 0 0 3px 3px #8888889a;
+}
+.media{
+    display: flex;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    border-radius: 0.5em;
+    border-start-start-radius: 0.5em;
+}

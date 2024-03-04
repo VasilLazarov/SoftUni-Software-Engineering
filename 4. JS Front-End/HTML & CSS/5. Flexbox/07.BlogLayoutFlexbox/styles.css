@@ -1,0 +1,91 @@
+html{
+    box-sizing: border-box;
+}
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+header{
+    border-bottom: 3px solid black;
+    flex-basis: 100%;
+}
+header p{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    margin: 1em 0;
+}
+
+h1, h2{
+    font-family: Georgia, serif;
+}
+h1{
+    font-size: 32px;
+}
+
+body{
+    font-family: Helvetica, sans-serif;
+    font-size: 17px;
+    padding: 30px 100px;
+    margin: 0;
+    background-color: rgb(238, 238, 238);
+}
+p{
+    margin: 1.5em 0;
+}
+.page{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+aside{
+    padding: 0 0 0 100px;
+    flex: 1 1 20em;
+}
+main{
+    flex: 4 1 40em;
+}
+
+
+ul{
+    list-style-type: square;
+}
+li a{
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}
+
+img{
+    border: 3px solid black;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+}
+.img1{
+    float: right;
+    padding: 0 0 0px 25px;
+}
+.img2{
+    float: left;
+    padding: 0 25px 0 0;
+}
+
+
+
+.blockq{
+    display: flex;
+}
+blockquote{
+    font-family: Georgia, serif;
+    font-style: italic;
+    border-left: 3px solid #cdcdcd;
+    padding: 0 20px;
+    margin: 0 10px 0 20px;
+    flex: 1 1 38%;
+}
+.blockq > p{
+    flex: 1 1 62%;;
+}
+.author{
+    text-align: right;
+}

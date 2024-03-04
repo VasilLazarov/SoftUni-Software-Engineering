@@ -1,0 +1,10 @@
+main > p{
+    font-size: 18px;
+}
+main{
+    width: 400px;
+    background-color: #dddddd;
+    border: 1px solid #000000;
+    margin-left: 200px;
+    padding: 10px;
+}

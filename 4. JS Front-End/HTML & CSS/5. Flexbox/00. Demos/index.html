@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+
+        }
+        body{
+            padding: 1em;
+        }
+        .container{
+            /*height: 20em;*/
+            padding: 2em;
+            display: flex;
+            border: 2px solid red;
+            flex-wrap: wrap;
+            justify-content:space-between;
+            /*align-items: center;
+            align-content: stretch;*/
+            gap: 2em;
+            /*justify-content: flex-end;
+            align-items: flex-start;
+            flex-direction: column-reverse;*/
+        }
+
+        .box{
+            /*width: 200px;*/
+            padding: 0.5em;
+            background-color: #eee;
+            border: 1px solid black;
+            text-align: center;
+            /*flex-grow: 0;
+            flex-basis: 10em;
+            flex-shrink: 1;  -obshto v flex*/
+            flex: 1 0 auto;
+        }
+        /*.box:nth-child(3){
+            width: 200px;
+        }*/
+        /*.box:nth-child(3){
+            /*min-height: 10em;
+            flex-grow: 3;*
+        }
+        .box:nth-child(1){
+            *max-height: 12em;*
+        }*/
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">1</div>
+        <div class="box">2</div>
+        <div class="box">3</div>
+        <div class="box">4</div>
+        <div class="box">5</div>
+        <div class="box">6</div>
+    </div>
+</body>
+</html>

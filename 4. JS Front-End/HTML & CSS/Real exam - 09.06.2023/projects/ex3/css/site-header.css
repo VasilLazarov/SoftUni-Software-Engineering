@@ -1,0 +1,62 @@
+.site-nav{
+    display: flex;
+    background: rgb(217, 217, 217);
+    padding: 2em 4.5em 0 6em;
+    justify-content: space-between;
+    align-items: start;
+}
+.site-nav-ul{
+    display: flex;
+    gap: 3.2em;
+}
+.site-nav-ul li,
+.site-nav-ul a{
+    display: block;
+}
+.site-nav-ul a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.35em;
+}
+.site-nav > a{
+    text-decoration: none;
+    color: black;
+    background: white;
+    border: 1px solid black;
+    border-radius: 0.2em;
+    padding: 0.3em 0.8em;
+    font-size: 1.25em;
+}
+
+.header-section{
+    background: url(../images/background.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center -22.4em;
+}
+.header-section h1{
+    font-size: 4.2em;
+    padding-bottom: 1.43em;
+}
+.header-section p{
+    font-size: 1.62em;
+    font-weight: bold;
+    color: white;
+    line-height: 1.1em; 
+    padding-bottom: 3em;   
+}
+.header-section a{
+    display: block;
+    padding: 1.3em 3em;
+    background: black;
+    text-decoration: none;
+    color: white;
+    align-self: flex-start;
+    border-radius: 0.4em;
+}
+.header-section-content{
+    display: flex;
+    flex-direction: column;
+    padding: 12em 0 9.6em 23em;
+    width: 75em;
+}

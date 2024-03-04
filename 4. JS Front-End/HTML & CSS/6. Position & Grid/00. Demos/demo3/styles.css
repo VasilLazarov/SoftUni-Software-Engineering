@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 2em;
+}
+p{
+    padding-bottom: 2em;
+}
+.container{
+    border: 2px solid #000;
+    margin-bottom: 2em;
+    min-height: 10em;
+    padding: 1em;
+}
+.box{
+    background: rgba(128, 0, 128, 0.5);
+    min-height: 2em;
+}
+
+.p-relative .box{
+    position: relative;
+    top: 20%;
+    left: 0;
+}
+.p-absolute{
+    position: relative;
+}
+.p-absolute .box{
+    position: absolute;
+    /**bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;*//*obshto go zadavame s inset*/
+    /*inset: 1em;*/
+    left: 0;
+    top: 0;
+}
+
+
+.p-fixed .box{
+    /*position: fixed;*/
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.p-sticky .box{
+    position: sticky;
+    top: 0;
+    left: 0;
+}

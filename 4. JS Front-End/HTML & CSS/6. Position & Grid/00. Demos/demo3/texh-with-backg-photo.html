@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text with background photo</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body{
+            background: #eee;
+        }
+        figure{
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        figure img{
+            width: 100%;
+            height: auto;
+        }
+        /*.content{
+            position: relative;
+            z-index: 5;
+            color: #fff;
+        }*/
+        .content{
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 5;
+            color: #fff;
+        }
+        .media{
+            width: 20em;
+            background: #fff;
+            padding-bottom: 55%;
+            border-radius: 0.5em;
+            box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.3);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <section class="media">
+        <div class="content">
+            <h1 class="title">Site title</h1>
+            <p>Subtitle</p>
+        </div>
+        <figure>
+            <img src="https://images.unsplash.com/photo-1668161287058-03496714771f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80">
+        </figure>
+    </section>
+</body>
+</html>

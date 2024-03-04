@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+html{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+.container{
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 0 60px;
+}
+header{
+    text-align: center;
+    padding: 1.2em 0;
+}
+.title{
+    font-size: 2.5em;
+    font-weight: 600;
+    padding: 0.3em 0 0 0;
+}
+.sub-title{
+    font-size: 1.28em;
+    padding: 0 0 0.5em 0;
+}
+
+.colorTitle{
+    color: rgb(50, 125, 196)
+}
+
+.cards-list{
+    display: flex;
+    gap: 1.7em;
+}
+.card{
+    flex: 1 1 30%;
+    background: rgb(129, 157, 175);
+    border-radius: 1.5em;
+}
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 1.5em;
+}
+
+.card-text{
+    padding: 1.8em;
+}
+.card-text h3{
+    font-size: 1.8em;
+    font-weight: 600;
+}
+.card-text p{
+    font-size: 1.25em;
+    padding: 1em 0 1.2em 0;
+}
+.card-text a{
+    font-size: 1.1em;
+    text-transform: uppercase;
+    color: white;
+    border: 1.5px solid rgb(50, 60, 196);
+    text-decoration: none;
+    padding: 0.3em 1.3em;
+    background: rgb(50, 125, 196);
+    border-radius: 2em;
+    margin: 1em 0;
+    box-shadow: 0 0 2px 1px white;
+}

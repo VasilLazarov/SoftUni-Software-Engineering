@@ -1,0 +1,12 @@
+.site-footer{
+    background: rgb(217, 217, 217);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2.5em 7em;
+    align-items: center;
+}
+.site-footer a svg{
+    width: 1em;
+    fill: black;
+    aspect-ratio: 1;
+}

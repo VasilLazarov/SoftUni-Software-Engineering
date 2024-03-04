@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Flexbox</title>
+
+    <style>
+        *, *::before, *::after{
+            box-sizing: inherit;
+        }
+        html{
+            box-sizing: border-box;
+        }
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        body{
+            padding: 2em;
+        }
+        .site{
+            border: 2px solid #333;
+            display: flex;
+            flex-wrap: wrap;
+            padding: 1em;
+            gap: 0em;
+        }
+        .site > *{
+            background-color: #eee;
+            border: 1px solid #999;
+            padding: 1em;
+            order: 10;
+        }
+        .site-header,
+        .site-footer{
+            flex: 1 0 100%;
+        }
+        .site-aside{
+            flex: 0 0 30%;
+        }
+        .site-main{
+            flex: 1 1 auto;
+        }
+        .sidebar-right .site-header{ order: 1; }
+        .sidebar-right .site-main{ order: 3; }
+        .sidebar-right .site-aside{ order: 2; }
+    </style>
+
+</head>
+<body>
+    <div class="site">
+        <header class="site-header">
+            <p>Header</p>
+        </header>
+        <main class="site-main">
+            <p>Main</p>
+        </main>
+        <aside class="site-aside">
+            <p>Aside</p>
+        </aside>
+        <footer class="site-footer">
+            <p>Footer</p>
+        </footer>
+    </div>
+    <div class="site sidebar-right">
+        <header class="site-header">
+            <p>Header</p>
+        </header>
+        <main class="site-main">
+            <p>Main</p>
+        </main>
+        <aside class="site-aside">
+            <p>Aside</p>
+        </aside>
+        <footer class="site-footer">
+            <p>Footer</p>
+        </footer>
+    </div>
+</body>
+</html>

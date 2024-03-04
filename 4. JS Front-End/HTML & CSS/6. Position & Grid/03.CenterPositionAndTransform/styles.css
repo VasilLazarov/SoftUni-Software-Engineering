@@ -1,0 +1,51 @@
+html{
+    box-sizing: border-box;
+}
+*, *::after, *::before{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(238, 238, 238);
+    font-family: Helvetica, sans-serif;
+}
+.card{
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 15px 7px #a8a7a7;
+    height: 510px;
+    width: 500px;
+}
+img{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+.content{
+    position: relative;
+    top: 300px;
+    padding: 50px 30px 30px 30px;
+}
+.content h3{
+    font: 1em/1.2 Georgia, serif;
+    font-weight: bold;
+    padding: 0.6em 0 0.7em 0;
+}
+.content p{
+    line-height: 1.2;
+    padding-bottom: 25px;
+}
+.content button{
+    background: rgb(0, 153, 0);
+    border: none;
+    border-radius: 0.15em;
+    padding: 0.6em 1em;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    right: 30px;
+}
