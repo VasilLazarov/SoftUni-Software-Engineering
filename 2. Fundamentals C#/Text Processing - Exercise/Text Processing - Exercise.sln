@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. String Explosion", "07. String Explosion\07. String Explosion.csproj", "{F5D5F934-A20A-47D9-95A5-B199FE0D75FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Letters Change Numbers", "08. Letters Change Numbers\08. Letters Change Numbers.csproj", "{80CFA411-FAF0-4B5E-AF73-7369D17280A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D5F934-A20A-47D9-95A5-B199FE0D75FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D5F934-A20A-47D9-95A5-B199FE0D75FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D5F934-A20A-47D9-95A5-B199FE0D75FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D5F934-A20A-47D9-95A5-B199FE0D75FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CFA411-FAF0-4B5E-AF73-7369D17280A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CFA411-FAF0-4B5E-AF73-7369D17280A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CFA411-FAF0-4B5E-AF73-7369D17280A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CFA411-FAF0-4B5E-AF73-7369D17280A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D18FD3-B164-431E-BB86-8306B7045391}
+	EndGlobalSection
+EndGlobal
