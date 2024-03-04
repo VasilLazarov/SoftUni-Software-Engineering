@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace more_ex._8._Circle_Area_and_Perimeter
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double r = double.Parse(Console.ReadLine());
+            double area = Math.PI * r * r;
+            double perimeter = 2 * Math.PI * r;
+            Console.WriteLine($"{area:f2}");
+            Console.WriteLine($"{perimeter:f2}");
+        }
+    }
+}
+//Console.WriteLine("{0} {1}", $"{area:f2}", $"{perimeter:f2}");
