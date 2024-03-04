@@ -1,0 +1,306 @@
+.pdf
+--Poruchka_1234206076.pdf - 44.7626953125kb
+--Критерии за оценка на задача по ПС - 2022.pdf - 112.8681640625kb
+--01. Birthday Party_Условие - PDF.pdf - 126.9814453125kb
+--01. Fruit Market_Условие - PDF.pdf - 134.015625kb
+--Примерна задача по ПС - 2022.pdf - 167.294921875kb
+--My program.pdf - 168.1796875kb
+--test2-v1-2.pdf - 172.30859375kb
+--01. Tennis Equipment_Условие - PDF.pdf - 203.478515625kb
+--ФТК - Krustev i Marto programa.pdf - 211.8828125kb
+--04. Easter Eggs Battle_Условие - PDF.pdf - 213.4619140625kb
+--04. Club_Условие - PDF.pdf - 251.2158203125kb
+--Упражнение 1.pdf - 310.548828125kb
+--PP_Lab2-1 C# async.pdf - 327.1669921875kb
+--Technical_Overview_of_Virtual_Private_NetworksVPNs.pdf - 331.0380859375kb
+--Upr 02 PS C# DotNet.pdf - 334.6455078125kb
+--Upr 01 PS VS C#.pdf - 392.7880859375kb
+--CE3_PI_PC_9C.pdf - 422.291015625kb
+--PP_Lab2-2 C# async.pdf - 425.890625kb
+--Тема 9.pdf - 482.1357421875kb
+--Тема 4.pdf - 494.5947265625kb
+--06. Barcode Generator_Условие - PDF.pdf - 500.115234375kb
+--Neven Nikolov - pmu uchitel - diplomna rabota.pdf - 504.005859375kb
+--Тема 6.pdf - 504.49609375kb
+--01. Basketball Equipment_Условие - PDF.pdf - 508.365234375kb
+--01. Oscars ceremony_Условие - PDF.pdf - 510.3046875kb
+--01. Easter Lunch_Условие - PDF.pdf - 515.55859375kb
+--Задание 2.pdf - 531.8955078125kb
+--01. Easter Bakery_Условие - PDF.pdf - 532.810546875kb
+--01. Pool Day_Условие - PDF.pdf - 547.1044921875kb
+--Тема 2.pdf - 554.001953125kb
+--02. Safari_Условие - PDF.pdf - 564.8544921875kb
+--02. Add Bags_Условие - PDF.pdf - 566.931640625kb
+--02. Movie Day_Условие - PDF.pdf - 569.4375kb
+--01. Agency Profit_Условие - PDF.pdf - 571.017578125kb
+--01. Series Calculator_Условие - PDF.pdf - 571.626953125kb
+--01. Movie Profit_Условие - PDF.pdf - 575.126953125kb
+--03. Easter Trip_Условие - PDF.pdf - 579.474609375kb
+--03. Film Premiere_Условие - PDF.pdf - 580.4541015625kb
+--03. Painting Eggs_Условие - PDF.pdf - 585.076171875kb
+--03. Coffee Machine_Условие - PDF.pdf - 587.2919921875kb
+--03. Gymnastics_Условие - PDF.pdf - 588.587890625kb
+--03. Movie Destination_Условие - PDF.pdf - 588.669921875kb
+--03. Oscars week in cinema_Условие - PDF.pdf - 588.921875kb
+--03. Travel Agency_Условие - PDF.pdf - 592.7509765625kb
+--02. Easter Guests_Условие - PDF.pdf - 616.763671875kb
+--5_6.pdf - 618.6640625kb
+--02. Family Trip_Условие - PDF.pdf - 619.970703125kb
+--04. Cinema Voucher_Условие - PDF.pdf - 621.2978515625kb
+--04. Tourist Shop_Условие - PDF.pdf - 621.6953125kb
+--02.  Easter Party_Условие - PDF.pdf - 623.5009765625kb
+--02. Skeleton_Условие - PDF.pdf - 626.2900390625kb
+--03. Aluminum Joinery_Условие - PDF.pdf - 626.623046875kb
+--Тема 3.pdf - 630.328125kb
+--03. Mobile operator_Условие - PDF.pdf - 642.2470703125kb
+--03. World Snooker Championship_Условие - PDF.pdf - 654.3203125kb
+--Тема 7.pdf - 685.859375kb
+--Упражнение 2.pdf - 715.330078125kb
+--Упражнение 1 Работа със SQLite за Android.pdf - 741.40234375kb
+--02. Football Results_Условие - PDF.pdf - 743.33203125kb
+--Modul_3_sukr.pdf - 807.1494140625kb
+--Тема 5.pdf - 810.5576171875kb
+--Тема 1.pdf - 830.076171875kb
+--2022_DS_EXAMPLE_test1_45p+5p_sent.pdf - 851.962890625kb
+--Reglament_EuroHPC_2July2021.pdf - 930.0185546875kb
+--Тема 8.pdf - 933.955078125kb
+--Тема 10.pdf - 979.466796875kb
+--Упражнение 3+4.pdf - 1026.05859375kb
+--1_. (1).pdf - 1045.3837890625kb
+--1_..pdf - 1045.3837890625kb
+--24178_leaflet_simple_en_1-0.pdf - 1060.57421875kb
+--24178_leaflet_simple_bg_1-0.pdf - 1060.7548828125kb
+--Modul_2_sukr.pdf - 1124.0703125kb
+--3_..pdf - 1141.671875kb
+--combinepdf.pdf - 1373.38671875kb
+--Modul_1_sukr.pdf - 1516.0126953125kb
+--Understanding_Scalability_and_Performance_Requirem.pdf - 1536.861328125kb
+--ВПКС-Отговори-за-изпит.pdf - 1677.1142578125kb
+--Съкратени развити въпроси (2018).pdf - 1815.794921875kb
+--Lab2.pdf - 1968.818359375kb
+--Modul_3_sukr-merged (1).pdf - 3436.7763671875kb
+--Стари развити въпроси (2014-).pdf - 4553.900390625kb
+--ДС_Решени примери (1).pdf - 5070.5087890625kb
+--ДС_Решени примери (2).pdf - 5070.5087890625kb
+--ДС_Решени примери.pdf - 5070.5087890625kb
+--ДС_Решени-примери-2.pdf - 5070.5087890625kb
+--interconnection-networks_compress.pdf - 5241.3623046875kb
+--1.1 - 1.5.pdf - 6909.1142578125kb
+--ДС-теория_контрол.pdf - 8317.71875kb
+--Principles and Practices of Interconnection Networks.pdf - 11080.3671875kb
+--Lect_01-merged.pdf - 16846.1220703125kb
+.docx
+--Отговори-на-тест-1.docx - 10.80859375kb
+--Отговори-на-тест-2.docx - 10.8125kb
+--Vasil Lazarov - upr7.docx - 13.2412109375kb
+--TU_zadanie_KMr (2).docx - 15.2744140625kb
+--03. Chat Logger_Вход.docx - 15.9150390625kb
+--01. Experience Gaining_Вход.docx - 16.5859375kb
+--Izpitni_Temi_KA.docx - 20.6376953125kb
+--Задание 1.docx - 27.5546875kb
+--Vasil Lazarov gr32 - upr 1.docx - 30.5263671875kb
+--Protocol 2 - upr3.docx - 42.9716796875kb
+--6_.docx - 46.8916015625kb
+--06. Movie Tickets_Условие.docx - 66.9765625kb
+--СИСТЕМНИ-КОМУНИКАЦИОННИ-МРЕЖИ-ЗА-ПАРАЛЕЛНИ-КОМПЮТРИ-1.docx - 70.654296875kb
+--Protokol 1.2 po VPKS - Vasil Lazarov (1).docx - 74.646484375kb
+--Protokol 1.2 po VPKS - Vasil Lazarov.docx - 74.646484375kb
+--Protokol-1.2-po-VPKS-Vasil-Lazarov-1.docx - 74.646484375kb
+--02. Space Travel_Вход.docx - 143.6220703125kb
+--01. SoftUni Reception_Problem Description (1).docx - 152.8115234375kb
+--01. SoftUni Reception_Problem Description.docx - 152.8115234375kb
+--02. Array Modifier_Problem Description.docx - 153.166015625kb
+--01. The Imitation Game_Problem Description.docx - 153.9150390625kb
+--06. CSharp-Fundamentals-Objects-and-Classes-More-Exercise.docx - 154.890625kb
+--02. Ad Astra_Problem Description.docx - 156.615234375kb
+--08. CSharp-Fundamentals-Strings-and-Text-Processing-Exercise.docx - 157.91796875kb
+--06. CSharp-Fundamentals-Objects-and-Classes-Exercise.docx - 158.4267578125kb
+--06._CSharp-Fundamentals-Objects-and-Classes-Exercise.docx - 158.4267578125kb
+--Fundamentals-Mid-Exam-Preparation-Problems-Description.docx - 159.1845703125kb
+--Modul_3_sukr.docx - 162.5703125kb
+--01. Train_Problems Description.docx - 162.7412109375kb
+--09. CSharp-Fundamentals-Regular-Expressions-Regex-Exercise.docx - 163.8095703125kb
+--03. CSharp-Advanced-Sets-and-Dictionaries-Advanced-Exercise.docx - 165.443359375kb
+--5_.docx - 212.380859375kb
+--01. Read Text_Условия.docx - 231.9033203125kb
+--05.2 PB-CSharp-While-Loop-Lab.docx - 231.9033203125kb
+--03. Bakery Shop_Вход.docx - 245.1162109375kb
+--02. Encrypting Password_Вход.docx - 246.3095703125kb
+--03. Wild Zoo_Вход.docx - 247.9775390625kb
+--02. Registration_Вход.docx - 249.1982421875kb
+--06. Barcode Generator_Условие.docx - 253.62890625kb
+--01. Agency Profit_Условие.docx - 254.2470703125kb
+--01. Christmas Preparation_Условие.docx - 254.8857421875kb
+--01. Email Validator_Вход.docx - 255.0390625kb
+--01. Decrypting Commands_Вход.docx - 255.0673828125kb
+--03. Numbers_Problem Description.docx - 255.6259765625kb
+--04. Workout_Условие.docx - 255.8232421875kb
+--03. Santas Holiday_Условие.docx - 256.4130859375kb
+--01. Cinema_Условия.docx - 257.9228515625kb
+--06. Multiply Table_Условие.docx - 259.7392578125kb
+--03. The Pianist_Problem Description.docx - 262.4658203125kb
+--05. Best Player_Условие.docx - 263.3955078125kb
+--02. Maiden Party_Условие.docx - 263.80859375kb
+--1.1.docx - 281.54296875kb
+--03. CSharp-Advanced-Sets-and-Dictionaries-Advanced-Lab.docx - 285.044921875kb
+--06.2 PB-CSharp-Nested-Loops-Lab.docx - 286.033203125kb
+--Protocol 1 - upr2.docx - 333.3544921875kb
+--06.3 PB-CSharp-Nested-Loops-Exercise (1).docx - 336.64453125kb
+--06.3 PB-CSharp-Nested-Loops-Exercise.docx - 336.64453125kb
+--05._CSharp-Fundamentals-Lists-Lab.docx - 343.6474609375kb
+--Kursuva rabota - Vasil Lazarov.docx - 348.7275390625kb
+--3В_Христина_Георгиева_32гр_фн121219036.docx - 377.23046875kb
+--01.3 PB-CSharp-First-Steps-in-Coding-Exercise.docx - 390.6630859375kb
+--06. Favorite Movie_Условие.docx - 408.5009765625kb
+--4. PB-More-While-Loop-Exercises.docx - 431.9033203125kb
+--01. Unique PIN Codes_Условия.docx - 450.388671875kb
+--01. Pipes In Pool_Условия.docx - 460.2978515625kb
+--01. Match Tickets_Условия.docx - 489.96875kb
+--05.3 PB-CSharp-While-Loop-Exercise (1).docx - 492.623046875kb
+--05.3 PB-CSharp-While-Loop-Exercise.docx - 492.623046875kb
+--Protocol 3 - upr4.docx - 539.5986328125kb
+--2.1 - 2.4.docx - 564.5263671875kb
+--06. CSharp-Fundamentals-Objects-and-Classes-Lab.docx - 580.9189453125kb
+--Lab_ex-3.1-2022.docx - 624.546875kb
+--05. Series_Условие.docx - 753.1767578125kb
+--01. Oscars ceremony_Условие.docx - 763.328125kb
+--PMU-proekt.docx - 768.193359375kb
+--Vasil Lazarov - vpks upr 3.2.docx - 779.1376953125kb
+--Lab_ex-3.2.docx - 779.146484375kb
+--01. Back To The Past_Условия.docx - 809.7216796875kb
+--31_4В_ДимитринаМаринкова_121219013.docx - 1178.0283203125kb
+--32_3Г_Александрина_Карадалиева_121219110.docx - 2936.6162109375kb
+--KP.docx - 5124.6708984375kb
+--Развити въпроси FULL 2018 (стари развити + нови лекции + учебник).docx - 6048.328125kb
+--1.2 - 1.5.docx - 6244.3388671875kb
+.zip
+--01. Oscars ceremony_Авторски решения.zip - 3.1015625kb
+--conttt.zip - 9.26171875kb
+--email.zip - 10.3544921875kb
+--vpn2 (1).zip - 31.5859375kb
+--vpn2 (2).zip - 31.5859375kb
+--vpn2 (3).zip - 31.5859375kb
+--vpn2.zip - 31.5859375kb
+--PSProekt-master.zip - 127.755859375kb
+--PSProekt-master (1).zip - 144.6103515625kb
+--PSProekt-master (2).zip - 144.6103515625kb
+--PSProekt-master (3).zip - 154.4736328125kb
+--30_Iveta_121219054.zip - 177.123046875kb
+--01. Odd Lines_Skeleton_6.0.zip - 202.412109375kb
+--RentACar-master.zip - 498.474609375kb
+--PSProekt.zip - 731.28515625kb
+--PSProekt (1).zip - 743.6826171875kb
+--ConsoleApplication1.zip - 828.3720703125kb
+--PSProekt (2).zip - 1173.248046875kb
+--PSProekt (3).zip - 1173.248046875kb
+--03. HTML-and-CSS-Basics.zip - 2074.693359375kb
+--Bingo-Map.zip - 3261.1669921875kb
+--from_drive.zip - 3447.67578125kb
+--Vasil_Lazarov_121219051_-_course_project.zip - 4395.9482421875kb
+--MI.zip - 4821.3984375kb
+--OneDrive_2022-02-24.zip - 6901.8779296875kb
+--121219051-upr5.zip - 24992.58203125kb
+.jpg
+--abdie11180900212.jpg - 14.974609375kb
+--9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg - 30.3134765625kb
+--28641464.jpg - 73.0009765625kb
+--pexels-pixabay-36717.jpg - 151.0673828125kb
+--248alQx2wdI4n5SOaNtrA7Znrd9.jpg - 372.013671875kb
+--pexels-pixabay-327509.jpg - 568.9404296875kb
+--pexels-philippe-donn-1114690.jpg - 835.9228515625kb
+--pexels-johannes-plenio-1435075.jpg - 945.572265625kb
+--pexels-pixabay-237266.jpg - 1328.9423828125kb
+--pexels-fabiano-rodrigues-1662298.jpg - 2058.642578125kb
+--pexels-roberto-nickson-2559941.jpg - 2107.0693359375kb
+--pexels-roberto-nickson-2486168.jpg - 2176.4638671875kb
+--pexels-james-wheeler-417074.jpg - 2250.7890625kb
+--pexels-pixabay-50594.jpg - 2293.0009765625kb
+--pexels-johannes-plenio-1118873.jpg - 2708.841796875kb
+--pexels-suzukii-xingfu-872831.jpg - 2869.6376953125kb
+--pexels-errin-casano-2356045.jpg - 3303.50390625kb
+--pexels-tom-fisk-2213443.jpg - 4238.2900390625kb
+--pexels-eberhard-grossgasteiger-443446.jpg - 4675.9716796875kb
+--pexels-francesco-ungaro-1525041.jpg - 5075.5kb
+--pexels-asad-photo-maldives-1450361.jpg - 6990.69921875kb
+.pptx
+--!!Презентация4-готова.pptx - 469.7890625kb
+--Presentation15.pptx - 490.6796875kb
+--Презентация 2.pptx - 880.4228515625kb
+--Модул 6.pptx - 972.765625kb
+--08. CSharp-Fundamentals-String-and-Text-Processing.pptx - 1361.669921875kb
+--06. CSharp-Fundamentals-Objects-and-Classes.pptx - 1420.0869140625kb
+--Модул 2.pptx - 1442.6650390625kb
+--Модул 1.pptx - 1915.8369140625kb
+--Модул 3.pptx - 2950.05859375kb
+--03. HTML-and-CSS-Basics.pptx - 3073.2333984375kb
+--Модул 4.pptx - 3163.2685546875kb
+.exe
+--BlueStacksInstaller_5.10.150.1016_native_e29a318a18561ae194454b989b31aa97_MzsxNSwwOzUsMTsxNSw0OzE1.exe - 798.34375kb
+--Valorant Tracker - Installer.exe - 2039.171875kb
+--npp.8.4.7.Installer.x64.exe - 4503.125kb
+--SurroundSoundInstaller_V1.0.129.165.exe - 4677.828125kb
+--DittoSetup_3_24_214_0 (1).exe - 4842.83984375kb
+--DittoSetup_3_24_214_0.exe - 4842.83984375kb
+--eset_internet_security_live_installer.exe - 8350.65625kb
+--android-data-extraction.exe - 57183.2890625kb
+--DiscordSetup.exe - 81326.2734375kb
+--ViberSetup.exe - 134927.6796875kb
+.ppt
+--Presentation11-готова.ppt - 867.5kb
+--Презентация6.1-готова.ppt - 1075kb
+--!!Презентация10-готова.ppt - 1537.5kb
+--!!!Презентация5-готова.ppt - 1931kb
+--!!Презентация11-13-редактирана.ppt - 2051kb
+--!!Презентация9-готова.ppt - 2379kb
+--!!Презентация1-3.ppt - 2578.5kb
+--Презентация7-8-готова.ppt - 3540.5kb
+.doc
+--Vasil_Dream_Home.doc - 24kb
+--Voc Match the Adjectives Answers.doc - 31kb
+--Type-1-IEEE-Telecom-conf-template-2021.doc - 57.9814453125kb
+--20080910_132854_221.perif_test.doc - 147kb
+--KA-13-14lekciа.doc - 171kb
+--!!!МАРКОВСКИ ПРОЦЕСИ(15.2).doc - 248.5kb
+.txt
+--discord_backup_codes.txt - 0.265625kb
+--ConsoleReadLine snipet.txt - 0.4384765625kb
+--L3pp3b7V.txt - 0.4453125kb
+--RC10FaV2.txt - 1.8017578125kb
+--big.txt - 6336.587890625kb
+.png
+--Thor-God-Of-Thunder-on-planetminecraft-com.png - 1.6787109375kb
+--datatypes.png - 42.966796875kb
+--Screenshot_20220126-233906.png - 947.75kb
+--271753190_4713695168666150_8921934547979162807_n.png - 1062.408203125kb
+.rar
+--121219051 upr1.rar - 2.873046875kb
+--121219051 upr2.rar - 10.3408203125kb
+--protokols.rar - 870.234375kb
+.rtf
+--zadachi_prolog_2 (1).rtf - 249.0126953125kb
+--zadachi_prolog_2.rtf - 249.0126953125kb
+--zadachi_prolog.rtf - 16754.19921875kb
+.mp4
+--pexels-mikhail-nilov-8307127.mp4 - 10686.94921875kb
+--Screenrecorder-2022-11-15-08-28-42-493.mp4 - 14112.3837890625kb
+.seb
+--config (1).seb - 23.6923828125kb
+--config.seb - 23.6923828125kb
+.html
+--VasilLazarov051_Template01.html - 1.599609375kb
+.ics
+--calendar-events-2022-06-04-13-41.ics - 0.880859375kb
+.ini
+--desktop.ini - 0.275390625kb
+.jar
+--GSit-1.0.5.jar - 289.5009765625kb
+.mp3
+--DESSITA - KATO KUCHE  ДЕСИТА - КАТО КУЧЕ [Official 4k Video], 2022.mp3 - 4943.357421875kb
+.snippet
+--ConsoleReadLine snipet.snippet - 0.4384765625kb
+.torrent
+--Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.BDRip.x264.AAC.DUAL-REFLUX.torrent - 16.3935546875kb
+.xlsx
+--idk.xlsx - 55.5439453125kb
+.ZIP
+--File_Chapter1.ZIP - 306.828125kb

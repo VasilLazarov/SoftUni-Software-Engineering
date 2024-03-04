@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test oroject", "Test oroject\Test oroject.csproj", "{FEA7AF35-6BDA-45CC-B92D-A54C333AA5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. BlindMan", "02. BlindMan\02. BlindMan.csproj", "{86B13E1A-47AC-4480-893C-27D1E83058C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA7AF35-6BDA-45CC-B92D-A54C333AA5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA7AF35-6BDA-45CC-B92D-A54C333AA5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA7AF35-6BDA-45CC-B92D-A54C333AA5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA7AF35-6BDA-45CC-B92D-A54C333AA5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B13E1A-47AC-4480-893C-27D1E83058C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B13E1A-47AC-4480-893C-27D1E83058C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B13E1A-47AC-4480-893C-27D1E83058C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B13E1A-47AC-4480-893C-27D1E83058C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199C8126-DD57-46CC-A6AB-7D4D9AFF953D}
+	EndGlobalSection
+EndGlobal
