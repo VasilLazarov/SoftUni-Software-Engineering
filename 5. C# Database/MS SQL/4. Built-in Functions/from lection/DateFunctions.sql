@@ -1,0 +1,67 @@
+USE [Demo]
+GO
+
+--DATEPART
+SELECT DATEPART(YEAR, '2023-10-09')
+SELECT DATEPART(DAYOFYEAR, '2023-10-09')
+SELECT DATEPART(MONTH, '2023-10-09')
+SELECT DATEPART(DAY, '2023-10-09')
+SELECT DATEPART(WEEKDAY, '2023-10-09')
+--EXERCISE - problem Quarterly Report
+GO
+CREATE VIEW v_QuarterlyReport AS
+SELECT InvoiceId
+     , Total
+	 , DATEPART(QUARTER, InvoiceDate) AS [Quarter]
+	 , DATEPART(MONTH, InvoiceDate) AS [Month]
+	 , DATEPART(Year, InvoiceDate) AS [Year]
+	 , DATEPART(DAY, InvoiceDate) AS [Day]
+  FROM Invoices
+GO
+SELECT * FROM v_QuarterlyReport
+
+
+--DATEDIFF - finds the difference between two dates
+SELECT DATEDIFF(YEAR, '2023-10-09', '2022-7-09')
+SELECT DATEDIFF(DAY, '2023-10-09', '2022-7-09')
+SELECT DATEDIFF(MONTH, '2023-10-09', '2022-7-09')
+--EXERCISE - show employee experience
+USE SoftUni
+GO
+SELECT EmployeeID
+     , FirstName
+	 , LastName
+	 --, DATEDIFF(YEAR, HireDate, '2017-01-25') AS [Years In Service]
+	 , DATEDIFF(YEAR, HireDate, GETDATE()) AS [Years In Service]
+  FROM Employees
+
+
+--DATENAME
+SELECT DATENAME(YEAR, '2023-10-09') --2023
+SELECT DATENAME(DAYOFYEAR, '2023-10-09') --282
+SELECT DATENAME(MONTH, '2023-10-09') --October
+SELECT DATENAME(DAY, '2023-10-09') --9
+SELECT DATENAME(WEEKDAY, '2023-10-09') -- Monday
+
+
+--DATEADD
+SELECT DATEADD(HOUR, 10, '2023-10-09')
+SELECT DATEADD(DAY, 10, '2023-10-09')
+SELECT DATEADD(MONTH, 2, '2023-10-09')
+
+
+--GETDATE - get current date and time
+SELECT GETDATE() -- DATE AND TIME
+SELECT FORMAT(GETDATE(), 'yyyy-MM-dd', 'bg-BG')
+
+
+--EOMONTH - returns the last day of the month
+SELECT EOMONTH(GETDATE()) AS [LastDayOfMonth]
+
+
+
+
+
+
+
+

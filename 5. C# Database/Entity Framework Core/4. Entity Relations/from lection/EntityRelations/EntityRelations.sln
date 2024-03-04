@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniDatabase-ScaffoldedFromPreviousLection", "SoftUniDatabase-ScaffoldedFromPreviousLection\SoftUniDatabase-ScaffoldedFromPreviousLection.csproj", "{03BE1073-18E7-4806-ABDE-9629126D1ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BE1073-18E7-4806-ABDE-9629126D1ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BE1073-18E7-4806-ABDE-9629126D1ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BE1073-18E7-4806-ABDE-9629126D1ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BE1073-18E7-4806-ABDE-9629126D1ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C2D99B5-E897-4DD9-B532-77F1153F5222}
+	EndGlobalSection
+EndGlobal

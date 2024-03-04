@@ -1,0 +1,56 @@
+CREATE DATABASE [OnlineStore]
+--GO
+USE [OnlineStore]
+--GO
+
+CREATE TABLE [Cities](
+	[CityID] INT PRIMARY KEY IDENTITY,
+	[Name] VARCHAR(20) NOT NULL
+)
+--GO
+
+CREATE TABLE [Customers](
+	[CustomerID] INT PRIMARY KEY IDENTITY,
+	[Name] VARCHAR(20) NOT NULL,
+	[Birthday] DATE NOT NULL,
+	[CityID] INT NOT NULL,
+	FOREIGN KEY ([CityID]) REFERENCES [Cities]([CityID])
+)
+--GO
+
+CREATE TABLE [Orders](
+	[OrderID] INT PRIMARY KEY IDENTITY,
+	[CustomerID] INT NOT NULL,
+	FOREIGN KEY ([CustomerID]) REFERENCES [Customers]([CustomerID])
+)
+--GO
+
+CREATE TABLE [ItemTypes](
+	[ItemTypeID] INT PRIMARY KEY IDENTITY,
+	[Name] VARCHAR(20) NOT NULL
+)
+--GO 
+
+CREATE TABLE [Items](
+	[ItemID] INT PRIMARY KEY IDENTITY,
+	[Name] VARCHAR(20) NOT NULL,
+	[ItemTypeID] INT NOT NULL,
+	FOREIGN KEY ([ItemTypeID]) REFERENCES [ItemTypes]([ItemTypeID])
+)
+--GO
+
+CREATE TABLE [OrderItems](
+	[OrderID] INT NOT NULL,
+	[ItemID] INT NOT NULL,
+	FOREIGN KEY ([OrderID]) REFERENCES [Orders]([OrderID]),
+	FOREIGN KEY ([ItemID]) REFERENCES [Items]([ItemID]),
+	PRIMARY KEY ([OrderID], [ItemID])
+)
+
+
+
+
+
+
+
+
