@@ -1,0 +1,20 @@
+﻿@model ProductViewModel
+@{
+    ViewBag.Title = $"Product {Model.Name}";
+}
+
+<!--<h2>@ViewBag.Title</h2>-->
+
+
+
+<div class="row">
+    <div class="col-3">
+        <div class="card">
+            <div class="card-header">Product N. @Model.Id</div>
+            <div class="card-body">
+                <h5 class="card-title">Product Name: @Model.Name</h5>
+                <p class="card-text">Price: @Model.Price lv.</p>
+            </div>
+        </div>
+    </div>
+</div>

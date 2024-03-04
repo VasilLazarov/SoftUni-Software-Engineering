@@ -1,0 +1,25 @@
+﻿@model int
+@{
+    ViewBag.Title = $"First {Model} numbers";
+}
+
+<h1>@ViewBag.Title</h1>
+
+<ul>
+    @for (int i = 1; i <= Model; i++)
+    {
+        <li>@i</li>
+    }
+</ul>
+
+<a asp-action="Limit" asp-route-num="24">First 24 numbers</a>
+<br/>
+<label for="limitInput">Input limit:</label>
+<input type="number" id="limitInput" value="3" />
+<button class="btn btn-primary" onclick="SetLimit()">Get numbers</button>
+
+@section Scripts {
+    <script src="~/js/numbers.js"></script>
+}
+
+<!--<a href="https://softuni.bg" target="_blank">SoftUni</a>-->
